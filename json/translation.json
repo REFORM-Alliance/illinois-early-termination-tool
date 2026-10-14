@@ -1,0 +1,181 @@
+{
+  "languages": ["en", "es"],
+  "translation": [
+    {
+      "en": "Illinois Early Termination Tool",
+      "es": "Herramienta de Terminación Anticipada de Illinois"
+    },
+    {
+      "en": "Change Language",
+      "es": "Cambiar idioma"
+    },
+    {
+      "en": "English",
+      "es": "English"
+    },
+    {
+      "en": "Español",
+      "es": "Español"
+    },
+    {
+      "en": "Start",
+      "es": "Iniciar"
+    },
+    {
+      "en": "Back",
+      "es": "Atrás"
+    },
+    {
+      "en": "Next",
+      "es": "Siguiente"
+    },
+    {
+      "en": "Finish",
+      "es": "Finalizar"
+    },
+    {
+      "en": "Start Over",
+      "es": "Empezar de nuevo"
+    },
+    {
+      "en": "Go Back to Previous Question",
+      "es": "Volver a la pregunta anterior"
+    },
+    {
+      "en": "Yes",
+      "es": "Sí"
+    },
+    {
+      "en": "No",
+      "es": "No"
+    },
+    {
+      "en": "Leaving Application",
+      "es": "Saliendo de la aplicación"
+    },
+    {
+      "en": "This will take you to a new website.",
+      "es": "Esto le llevará a un sitio web nuevo."
+    },
+    {
+      "en": "Continue",
+      "es": "Continuar"
+    },
+    {
+      "en": "Cancel",
+      "es": "Cancelar"
+    },
+    {
+      "en": "OK",
+      "es": "Aceptar"
+    },
+    {
+      "en": "Missing answer",
+      "es": "Falta una respuesta"
+    },
+    {
+      "en": "Please select an answer before clicking Next",
+      "es": "Seleccione una respuesta antes de hacer clic en Siguiente"
+    },
+    {
+      "en": "here",
+      "es": "aquí"
+    },
+    {
+      "en": ".",
+      "es": "."
+    },
+    {
+      "en": ". ",
+      "es": ". "
+    },
+    {
+      "en": ".) ",
+      "es": ".) "
+    },
+    {
+      "en": "Welcome to REFORM Alliance's Illinois Early Termination Tool.",
+      "es": "Le damos la bienvenida a la Herramienta de Terminación Anticipada de Illinois de REFORM Alliance."
+    },
+    {
+      "en": "This tool is designed to help users navigate the process for early termination of mandatory supervised release or parole in Illinois.",
+      "es": "Esta herramienta está diseñada para ayudar a los usuarios a navegar el proceso de terminación anticipada de la libertad supervisada obligatoria (“mandatory supervised release”) o de la libertad bajo palabra (“parole”) en Illinois."
+    },
+    {
+      "en": "This tool can be used by anyone, but is specifically designed to be used by people on mandatory supervised release or parole. To begin using the tool, please click the START button below. The answers that you provide in response to each question will help the tool determine what you are legally entitled to under Illinois law.",
+      "es": "Esta herramienta puede ser utilizada por cualquier persona, pero está diseñada específicamente para personas en libertad supervisada obligatoria o en libertad bajo palabra. Para comenzar a usar la herramienta, haga clic en el botón INICIAR a continuación. Las respuestas que usted proporcione a cada pregunta ayudarán a la herramienta a determinar a qué tiene derecho legalmente conforme a la ley de Illinois."
+    },
+    {
+      "en": "Are you currently on mandatory supervised release or parole?",
+      "es": "¿Está actualmente en libertad supervisada obligatoria (“mandatory supervised release”) o en libertad bajo palabra (“parole”)?"
+    },
+    {
+      "en": "This tool is designed only for those on mandatory supervised release or parole. It is not intended for individuals on probation. Please reach out to an attorney with any questions about issues unrelated to mandatory supervised release or parole.",
+      "es": "Esta herramienta está diseñada únicamente para quienes están en libertad supervisada obligatoria (“mandatory supervised release”) o en libertad bajo palabra (“parole”). No está destinada a personas en libertad condicional (“probation”). Comuníquese con un abogado si tiene preguntas sobre asuntos que no estén relacionados con la libertad supervisada obligatoria o la libertad bajo palabra."
+    },
+    {
+      "en": "Have you been on mandatory supervised release or parole for at least 6 months?",
+      "es": "¿Ha estado en libertad supervisada obligatoria o en libertad bajo palabra durante al menos 6 meses?"
+    },
+    {
+      "en": "The law requires your supervision officer to review your case for early termination at least once every 6 months. This law is available ",
+      "es": "La ley exige que su oficial de supervisión revise su caso para determinar la terminación anticipada al menos una vez cada 6 meses. Esta ley está disponible "
+    },
+    {
+      "en": "Your officer must recommend that either your supervision be terminated early or that you continue on mandatory supervised release or parole. They must provide you a written report within 30 days of this recommendation, and if you are not recommended for termination then they must list the steps or requirements you must complete in order to be granted early termination.",
+      "es": "Su oficial debe recomendar que su supervisión termine anticipadamente o que usted continúe en libertad supervisada obligatoria o en libertad bajo palabra. Debe entregarle un informe escrito dentro de los 30 días posteriores a esta recomendación y, si no se le recomienda la terminación, debe enumerar los pasos o requisitos que usted debe cumplir para que se le conceda la terminación anticipada."
+    },
+    {
+      "en": "Have you received this report?",
+      "es": "¿Ha recibido este informe?"
+    },
+    {
+      "en": "Illinois law allows the Prisoner Review Board to terminate a period of mandatory supervised release or parole at any time. (Please see the relevant section of law ",
+      "es": "La ley de Illinois permite que la Junta de Revisión de Prisioneros (“Prisoner Review Board”) ponga fin a un período de libertad supervisada obligatoria o de libertad bajo palabra en cualquier momento. (Consulte la sección pertinente de la ley "
+    },
+    {
+      "en": "Illinois law also requires the Prisoner Review Board to review people on mandatory supervised release or parole for early termination every 6 months. It is unlikely that the Prisoner Review Board will grant early termination until you have served at least 6 months of supervision, but you should contact your attorney to discuss your options.",
+      "es": "La ley de Illinois también exige que la Junta de Revisión de Prisioneros revise cada 6 meses la terminación anticipada de las personas en libertad supervisada obligatoria o en libertad bajo palabra. Es poco probable que la Junta de Revisión de Prisioneros conceda la terminación anticipada hasta que usted haya cumplido al menos 6 meses de supervisión, pero debe comunicarse con su abogado para hablar sobre sus opciones."
+    },
+    {
+      "en": "Your supervision officer is legally required to review you for early termination at least once every 6 months and provide you with a report on this review within 30 days. This law is available ",
+      "es": "Su oficial de supervisión tiene la obligación legal de revisar su caso para determinar la terminación anticipada al menos una vez cada 6 meses y de entregarle un informe sobre esta revisión dentro de los 30 días. Esta ley está disponible "
+    },
+    {
+      "en": "If they have not done so, please talk to your lawyer or your supervision officer immediately to address this.",
+      "es": "Si no lo ha hecho, hable de inmediato con su abogado o con su oficial de supervisión para resolver esta situación."
+    },
+    {
+      "en": "Did this report recommend early termination?",
+      "es": "¿Recomendó este informe la terminación anticipada?"
+    },
+    {
+      "en": "Your officer is required to provide you a list of steps or requirements that must be completed in order to be granted early termination. Have you completed those steps or requirements?",
+      "es": "Su oficial debe entregarle una lista de los pasos o requisitos que deben cumplirse para que se le conceda la terminación anticipada. ¿Ha cumplido esos pasos o requisitos?"
+    },
+    {
+      "en": "Regardless of what your officer recommends, the decision to grant or deny early termination is made by the Prisoner Review Board. Did the Board approve your supervision officer’s recommendation to terminate your supervision early?",
+      "es": "Independientemente de lo que recomiende su oficial, la decisión de conceder o denegar la terminación anticipada la toma la Junta de Revisión de Prisioneros (“Prisoner Review Board”). ¿Aprobó la Junta la recomendación de su oficial de supervisión de terminar su supervisión anticipadamente?"
+    },
+    {
+      "en": "The Prisoner Review Board is required to provide you a list of steps or requirements that must be completed in order to be granted early termination. Have you completed those steps or requirements?",
+      "es": "La Junta de Revisión de Prisioneros (“Prisoner Review Board”) debe entregarle una lista de los pasos o requisitos que deben cumplirse para que se le conceda la terminación anticipada. ¿Ha cumplido esos pasos o requisitos?"
+    },
+    {
+      "en": "You are permitted to apply for early termination once you have completed the steps or requirements assigned to you. You must apply to the Prisoner Review Board which has the final authority to approve or deny early termination. They are required to review your application and make a determination within 30 days.",
+      "es": "Usted puede solicitar la terminación anticipada una vez que haya cumplido los pasos o requisitos que se le asignaron. Debe presentar su solicitud ante la Junta de Revisión de Prisioneros (“Prisoner Review Board”), que tiene la autoridad final para aprobar o denegar la terminación anticipada. La Junta debe revisar su solicitud y tomar una determinación dentro de los 30 días."
+    },
+    {
+      "en": "Did the Board approve your request for early termination?",
+      "es": "¿Aprobó la Junta su solicitud de terminación anticipada?"
+    },
+    {
+      "en": "Legally, the Prisoner Review Board has the discretion to terminate your probation early at any time. However, it is very unlikely that they would do so until you complete the steps or requirements you were given. Please consult your attorney or your supervision officer with any questions about your options.",
+      "es": "Legalmente, la Junta de Revisión de Prisioneros (“Prisoner Review Board”) tiene la facultad discrecional de poner fin a su supervisión anticipadamente en cualquier momento. Sin embargo, es muy poco probable que lo haga hasta que usted cumpla los pasos o requisitos que se le dieron. Consulte con su abogado o con su oficial de supervisión si tiene preguntas sobre sus opciones."
+    },
+    {
+      "en": "Congratulations, your supervision has been terminated early!",
+      "es": "¡Felicitaciones! Su supervisión ha terminado anticipadamente."
+    }
+  ]
+}
