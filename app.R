@@ -86,8 +86,8 @@ decision_tree <-
     list(
       result = 
         tags$div(
-          tags$p("Illinois law allows the Prisoner Review Board to terminate a period of mandatory supervised release or parole at any time. (Please see the relevant section of law ", 
-                 tags$a(href='https://www.ilga.gov/Documents/legislation/ilcs/documents/073000050K3-3-8.htm', target='_blank', class='external-link', "here"), ".) ",
+          tags$p("Illinois law allows the Prisoner Review Board to terminate a period of mandatory supervised release or parole at any time. Please see the relevant section of law ", 
+                 tags$a(href='https://www.ilga.gov/Documents/legislation/ilcs/documents/073000050K3-3-8.htm', target='_blank', class='external-link', "here"), ". ",
                  "Illinois law also requires the Prisoner Review Board to review people on mandatory supervised release or parole for early termination every 6 months. It is unlikely that the Prisoner Review Board will grant early termination until you have served at least 6 months of supervision, but you should contact your attorney to discuss your options.")
         ),
       question_id = "pre-6_month_response"
@@ -152,7 +152,8 @@ decision_tree <-
     list(
       question = 
         tags$div(
-          tags$p("You are permitted to apply for early termination once you have completed the steps or requirements assigned to you. You must apply to the Prisoner Review Board which has the final authority to approve or deny early termination. They are required to review your application and make a determination within 30 days."),
+          tags$p("You are permitted to apply for early termination once you have completed the steps or requirements assigned to you. You must apply to the Prisoner Review Board which has the final authority to approve or deny early termination. Please discuss with your attorney or your supervision officer how to apply to the Board."),
+          tags$p("The Parole Review Board is required to review your application and make a determination within 30 days."),
           tags$p("Did the Board approve your request for early termination?")
         ),
       choices = c("Yes", "No"),
