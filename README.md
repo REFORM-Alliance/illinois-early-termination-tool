@@ -2,7 +2,7 @@
 
 A bilingual (English and Spanish) web tool from REFORM Alliance that helps people on mandatory supervised release or parole in Illinois see where they stand in the officer's 6-month review and the Prisoner Review Board's decision. It is not for people on probation.
 
-**Live app:** address not recorded here yet (see [Publish](#publish)).
+**Live app:** <https://bfs6-illinois-early-termination-tool.share.connect.posit.cloud/>
 
 Part of REFORM Alliance's early termination tools: [Georgia](https://github.com/REFORM-Alliance/georgia-early-termination-tool) · [Florida](https://github.com/REFORM-Alliance/florida-early-termination-tool) · **Illinois** · [Virginia](https://github.com/REFORM-Alliance/va-implementation-tool) · [Pennsylvania Act 44](https://github.com/REFORM-Alliance/act-44-flow-chart-app).
 
@@ -109,9 +109,7 @@ The pinned versions are R 4.5.0 with the packages in `renv.lock`. The app loads 
 
 ## Publish
 
-This tool is hosted on [Posit Connect Cloud](https://connect.posit.cloud). Connect Cloud copies the code from the GitHub repository and builds the app itself, so publishing an update means getting the change onto the GitHub branch that Connect Cloud follows (normally `main`; **Settings > Source** in Connect Cloud shows which). Nothing is uploaded from your computer. Connect Cloud addresses have the form `https://<account>-<custom name>.share.connect.posit.cloud`. The early termination tools' addresses of that form begin with `bfs6`, the name of the Connect Cloud account that owns them.
-
-**Live address not recorded.** The address for this tool has not been added to this README yet. Once it is confirmed, add it to the **Live app** line and the table at the end.
+This tool is hosted on [Posit Connect Cloud](https://connect.posit.cloud). The live app is at <https://bfs6-illinois-early-termination-tool.share.connect.posit.cloud/>. Connect Cloud copies the code from the GitHub repository and builds the app itself, so publishing an update means getting the change onto the GitHub branch that Connect Cloud follows (normally `main`; **Settings > Source** in Connect Cloud shows which). Nothing is uploaded from your computer. Connect Cloud addresses have the form `https://<account>-<custom name>.share.connect.posit.cloud`. The early termination tools' addresses of that form begin with `bfs6`, the name of the Connect Cloud account that owns them.
 
 ### Publish an update
 
@@ -124,12 +122,12 @@ This tool is hosted on [Posit Connect Cloud](https://connect.posit.cloud). Conne
 ### Publish for the first time, or re-create the app
 
 1. In the project folder, run `rsconnect::writeManifest()` in the R console. Commit and push `app.R`, `manifest.json`, `json/` and `www/`.
-2. Sign in to [Connect Cloud](https://connect.posit.cloud) with the account that owns this app.
+2. Sign in to [Connect Cloud](https://connect.posit.cloud) with the account named `bfs6`, which owns the `share.connect.posit.cloud` addresses.
 3. Click **Publish** at the top of your Home page. The first time, Connect Cloud asks you to install its GitHub App; give it access to this repository. A repo owned by the REFORM-Alliance organization may need an organization owner to approve the app.
 4. Choose **Shiny**, then select this repository.
 5. Confirm the **Branch** is `main` and the **Primary file** is `app.R`. Leave **Automatically publish on push** on.
 6. Click **Publish** and watch the build log. When it finishes, the app is live at an address like `https://<content id>.share.connect.posit.cloud`.
-7. Open the app's **Settings > URL** to choose the address people will use.
+7. Open the app's **Settings > URL** and set the custom name to `illinois-early-termination-tool`. The address becomes `https://bfs6-illinois-early-termination-tool.share.connect.posit.cloud`.
 8. Open the address in a private browser window to check that someone who is not signed in to Connect Cloud can use it.
 
 ### If something goes wrong
@@ -156,6 +154,6 @@ The five early termination tools copy the same engine rather than sharing a pack
 | --- | --- | --- |
 | Georgia | [georgia-early-termination-tool](https://github.com/REFORM-Alliance/georgia-early-termination-tool) | <https://bfs6-georgia-early-termination-tool.share.connect.posit.cloud/> |
 | Florida | [florida-early-termination-tool](https://github.com/REFORM-Alliance/florida-early-termination-tool) | <https://bfs6-florida-early-termination-tool.share.connect.posit.cloud/> |
-| Illinois | [illinois-early-termination-tool](https://github.com/REFORM-Alliance/illinois-early-termination-tool) | not recorded yet |
+| Illinois | [illinois-early-termination-tool](https://github.com/REFORM-Alliance/illinois-early-termination-tool) | <https://bfs6-illinois-early-termination-tool.share.connect.posit.cloud/> |
 | Virginia | [va-implementation-tool](https://github.com/REFORM-Alliance/va-implementation-tool) | <https://www.reformvaearlyterminationtool.com/> |
 | Pennsylvania Act 44 | [act-44-flow-chart-app](https://github.com/REFORM-Alliance/act-44-flow-chart-app) | <https://bfs6-act-44-early-termination-tool.share.connect.posit.cloud/> |
